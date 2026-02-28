@@ -145,6 +145,6 @@ public class Wathe implements ModInitializer {
     }
 
     public static @NotNull Boolean isSupporter(PlayerEntity player) {
-        return true
+        return true;
     }
 }
