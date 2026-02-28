@@ -1,29 +1,38 @@
 {
-  "announcement.goal.civilian": "Stay safe and survive till the end of the ride.",
-  "announcement.goal.killer": "Eliminate a passenger to succeed, before time runs out.",
-  "announcement.goal.vigilante": "Eliminate any murderers and protect the civilians.",
-  "announcement.goals.civilian": "Stay safe and survive till the end of the ride.",
-  "announcement.goals.killer": "Eliminate all civilians before time runs out.",
-  "announcement.goals.vigilante": "Eliminate any murderers and protect the civilians.",
+  "announcement.goal.civilian": "Survive the ride.",
+  "announcement.goal.killer": "Eliminate all passengers before time runs out.",
+  "announcement.goal.vigilante": "Find and eliminate the killer.",
+  "announcement.goals.civilian": "Survive the ride.",
+  "announcement.goals.killer": "Eliminate all passengers before time runs out.",
+  "announcement.goals.vigilante": "Find and eliminate the killer.",
+
   "announcement.loose_ends.goal": "Tie all loose ends before they tie you. Good luck.",
   "announcement.loose_ends.premise": "Everybody on the train has a derringer and a knife.",
   "announcement.loose_ends.welcome": "Welcome aboard... Loose End.",
   "announcement.loose_ends.winner": "%s Wins!",
+
   "announcement.premise": "There is a killer aboard the train.",
   "announcement.premises": "There are %s killers aboard the train.",
+
   "announcement.role.civilian": "Civilian!",
   "announcement.role.killer": "Killer!",
   "announcement.role.loose_end": "Loose End!",
   "announcement.role.vigilante": "Vigilante!",
+
   "announcement.title.civilian": "Civilians",
   "announcement.title.killer": "Killers",
   "announcement.title.loose_end": "Loose Ends",
   "announcement.title.vigilante": "Vigilantes",
+
   "announcement.welcome": "Welcome aboard %s",
+
   "announcement.win.civilian": "Passengers Win!",
   "announcement.win.killer": "Killers Win!",
   "announcement.win.loose_end": "%s Wins!",
   "announcement.win.vigilante": "Passengers Win!",
+
+
+
   "block.wathe.acacia_branch": "Acacia Branch",
   "block.wathe.anthracite_steel": "Anthracite Steel",
   "block.wathe.anthracite_steel_door": "Anthracite Steel Door",
