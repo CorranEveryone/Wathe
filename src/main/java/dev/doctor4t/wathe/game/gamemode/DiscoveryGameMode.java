@@ -29,5 +29,8 @@ public class DiscoveryGameMode extends GameMode {
         // stop game if ran out of time
         if (!GameTimeComponent.KEY.get(serverWorld).hasTime())
             GameFunctions.stopGame(serverWorld);
+        if (playersLeft <= 0) {
+            GameFunctions.stopGame(serverWorld);
+        }
     }
 }
