@@ -2,8 +2,8 @@
 	"schemaVersion": 1,
 	"id": "wathe",
 	"version": "${version}",
-	"name": "Wathe",
-	"description": "A murder mystery social game.",
+	"name": "Town of Harpy",
+	"description": "A mod of the Last Voyage of the Harpy Express (aka Wathe)",
 	"authors": [
 		"doctor4t",
 		"AmyMialee",
@@ -11,7 +11,8 @@
 		"Winsweep",
 		"Luxintrus",
 		"CallMeArthys",
-		"Arathain"
+		"Arathain",
+		"CorranEveryone"
 	],
 	"license": "ARR",
 	"icon": "assets/wathe/icon.png",
